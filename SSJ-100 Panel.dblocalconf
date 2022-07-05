@@ -49,8 +49,8 @@
  <translatecatnames>'1'</translatecatnames>
  <catsortcolumn>'-1'</catsortcolumn>
  <catsortdirection>'0'</catsortdirection>
- <groupsortcolumn>'-1'</groupsortcolumn>
- <groupsortdirection>'0'</groupsortdirection>
+ <groupsortcolumn>'1'</groupsortcolumn>
+ <groupsortdirection>'1'</groupsortdirection>
  <listsaddoperation>'0'</listsaddoperation>
  <sigsortcolumn>'-1'</sigsortcolumn>
  <sigsortdirection>'0'</sigsortdirection>
@@ -88,8 +88,8 @@
  </globfilter>
  <formleft>'-8'</formleft>
  <formtop>'-8'</formtop>
- <formright>'1288'</formright>
- <formbottom>'688'</formbottom>
+ <formright>'1544'</formright>
+ <formbottom>'832'</formbottom>
  <formstate>'2'</formstate>
  <formactivemainpage>'0'</formactivemainpage>
  <formactivepage>'0'</formactivepage>

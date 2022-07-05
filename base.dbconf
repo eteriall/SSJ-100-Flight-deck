@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Header>
+<dbconfig>
+ <dbsettingsplace>'0'</dbsettingsplace>
+ <catfiltercaps>'*'#13#10</catfiltercaps>
+ <catfiltervals>'*'#13#10</catfiltervals>
+ <catfiltertext></catfiltertext>
+ <catfilteritemidx>'-1'</catfilteritemidx>
+ <groupfiltercaps>'По умолчанию (*)'#13#10</groupfiltercaps>
+ <groupfiltervals>'*'#13#10</groupfiltervals>
+ <groupfiltertext>'По умолчанию (*)'</groupfiltertext>
+ <groupfilteritemidx>'0'</groupfilteritemidx>
+ <signamefiltercaps>'По умолчанию (*)'#13#10</signamefiltercaps>
+ <signamefiltervals>'*'#13#10</signamefiltervals>
+ <signamefiltertext>'По умолчанию (*)'</signamefiltertext>
+ <signamefilteritemidx>'0'</signamefilteritemidx>
+ <sigcapfiltercaps>'По умолчанию (*)'#13#10</sigcapfiltercaps>
+ <sigcapfiltervals>'*'#13#10</sigcapfiltervals>
+ <sigcapfiltertext>'По умолчанию (*)'</sigcapfiltertext>
+ <sigcapfilteritemidx>'0'</sigcapfilteritemidx>
+ <groupfilterdatanameitems></groupfilterdatanameitems>
+ <groupfilterdataname></groupfilterdataname>
+ <groupfilterdatavalueitems></groupfilterdatavalueitems>
+ <groupfilterdatavalue>'*'</groupfilterdatavalue>
+ <groupfilterdatafield>'0'</groupfilterdatafield>
+ <srvport>'19000'</srvport>
+ <host>'127.0.0.1'</host>
+ <port>'19000'</port>
+ <priority>'0'</priority>
+ <srvenable>'0'</srvenable>
+ <sync>'0'</sync>
+ <remenable>'0'</remenable>
+ <savedb>'1'</savedb>
+ <savepromt>'1'</savepromt>
+ <multisearch>'0'</multisearch>
+ <adddescr>'1'</adddescr>
+ <allowloadremrestart>'0'</allowloadremrestart>
+ <allowsaveremrestart>'0'</allowsaveremrestart>
+ <allowsaveclientrestart>'1'</allowsaveclientrestart>
+ <restarttemplate>'$PACKRESTARTPATH$RESTARTNAME'</restarttemplate>
+ <notreloadonchangeprj>'0'</notreloadonchangeprj>
+ <recievedatafromsrv>'1'</recievedatafromsrv>
+ <senddatatosrv>'1'</senddatatosrv>
+ <usecommonpackrst>'1'</usecommonpackrst>
+ <asyncdataload>'0'</asyncdataload>
+ <addconsttoexch>'0'</addconsttoexch>
+ <messageifportreplace>'0'</messageifportreplace>
+ <translatecaps>'1'</translatecaps>
+ <translatecatnames>'1'</translatecatnames>
+ <catsortcolumn>'-1'</catsortcolumn>
+ <catsortdirection>'0'</catsortdirection>
+ <groupsortcolumn>'-1'</groupsortcolumn>
+ <groupsortdirection>'0'</groupsortdirection>
+ <listsaddoperation>'0'</listsaddoperation>
+ <sigsortcolumn>'-1'</sigsortcolumn>
+ <sigsortdirection>'0'</sigsortdirection>
+ <globalfilteritemindex>'-1'</globalfilteritemindex>
+ <globfilter>
+  <name>'Все по умолчанию'</name>
+  <cat></cat>
+  <catitems></catitems>
+  <catvalues></catvalues>
+  <catitemindex>'0'</catitemindex>
+  <group></group>
+  <groupitems></groupitems>
+  <groupvalues></groupvalues>
+  <groupitemindex>'0'</groupitemindex>
+  <sigdataname></sigdataname>
+  <sigdatanameitems></sigdatanameitems>
+  <sigvalue></sigvalue>
+  <sigvalueitems></sigvalueitems>
+  <sigdatafieldindex>'0'</sigdatafieldindex>
+  <signame></signame>
+  <signameitems></signameitems>
+  <signamevalues></signamevalues>
+  <signameitemindex>'0'</signameitemindex>
+  <sigcap></sigcap>
+  <sigcapitems></sigcapitems>
+  <sigcapvalues></sigcapvalues>
+  <sigcapitemindex>'0'</sigcapitemindex>
+  <listaddoper>'0'</listaddoper>
+  <catsortcol>'-1'</catsortcol>
+  <catsortdir>'0'</catsortdir>
+  <groupsortcol>'-1'</groupsortcol>
+  <groupsortdir>'0'</groupsortdir>
+  <sigsortcol>'-1'</sigsortcol>
+  <sigsortdir>'0'</sigsortdir>
+ </globfilter>
+ <formleft>'-8'</formleft>
+ <formtop>'-8'</formtop>
+ <formright>'1288'</formright>
+ <formbottom>'688'</formbottom>
+ <formstate>'2'</formstate>
+ <formactivemainpage>'0'</formactivemainpage>
+ <formactivepage>'0'</formactivepage>
+ <formvisible>'0'</formvisible>
+</dbconfig>
+</Header>

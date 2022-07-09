@@ -1,0 +1,37 @@
+﻿[Form]
+Rect.L=26
+Rect.T=26
+Rect.R=755
+Rect.B=431
+ConsoleHeight=69
+WindowState=0
+ColCount=7
+ColWidth0=226
+ColWidth1=91
+ColWidth2=88
+ColWidth3=62
+ColWidth4=88
+ColWidth5=58
+ColWidth6=65
+[Common]
+Synchronize=1
+RelativePath=1
+IsRealTime=0
+TimeMash=1
+fSimpleSignalLoad=2
+formstyle=0
+restartname=
+notqueryremoveforall=0
+[Files]
+Count=3
+0=C:\Users\User34\Desktop\SSJ-100 Flight deck\ssj-100 panel.prt
+1=C:\Users\User34\Desktop\SSJ-100 Flight deck\top-panel.prt
+2=C:\Users\User34\Desktop\SSJ-100 Flight deck\widgets-panel.prt
+[Active]
+0=1
+1=1
+2=1
+[TimeSync]
+0=1
+1=1
+2=1

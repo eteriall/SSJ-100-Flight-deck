@@ -18,17 +18,18 @@ cx, cy, d = hw, hh, 0
 hostname = socket.gethostname()
 UDP_IP = socket.gethostbyname(hostname)
 print(UDP_IP)
+time.sleep(10)
 UDP_PORT = 5005
 
 sock = socket.socket(socket.AF_INET, # Internet
                      socket.SOCK_DGRAM) # UDP
 sock.settimeout(1)
 sock.bind((UDP_IP, UDP_PORT))
-
+win32api.mouse_event(win32con.MOUSEEVENTF_RIGHTDOWN, cx, cy, 0, 0)
+         
 while True:
     try:
         data, addr = sock.recvfrom(41)
-        win32api.mouse_event(win32con.MOUSEEVENTF_RIGHTDOWN, cx, cy, 0, 0)
         rx = -struct.unpack('f', data[9:13])[0]
         speed_mul = abs(rx) * 2
 

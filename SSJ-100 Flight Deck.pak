@@ -1,8 +1,8 @@
 ﻿[Form]
-Rect.L=26
-Rect.T=26
-Rect.R=755
-Rect.B=431
+Rect.L=2183
+Rect.T=281
+Rect.R=2912
+Rect.B=686
 ConsoleHeight=69
 WindowState=0
 ColCount=7
@@ -16,22 +16,25 @@ ColWidth6=65
 [Common]
 Synchronize=1
 RelativePath=1
-IsRealTime=0
+IsRealTime=1
 TimeMash=1
 fSimpleSignalLoad=2
-formstyle=0
+formstyle=3
 restartname=
 notqueryremoveforall=0
 [Files]
-Count=3
-0=C:\Users\User34\Desktop\SSJ-100 Flight deck\ssj-100 panel.prt
-1=C:\Users\User34\Desktop\SSJ-100 Flight deck\top-panel.prt
-2=C:\Users\User34\Desktop\SSJ-100 Flight deck\widgets-panel.prt
+Count=4
+0=ssj-100 panel.prt
+1=top-panel.prt
+2=widgets-panel.prt
+3=Пока что рабочая.prt
 [Active]
 0=1
 1=1
 2=1
+3=1
 [TimeSync]
 0=1
 1=1
 2=1
+3=1
